@@ -1,0 +1,3 @@
+
+serve:
+	flask run
